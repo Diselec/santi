@@ -1,14 +1,23 @@
 # Comandos consola
 ## Esto son los comandos de la consola que he utilizado
 
-1. echo "# santi" >> README.md
-2. git init
-3. git add README.md
-4. git commit -m "first commit"
-5. git remote add origin https://github.com/Diselec/santi.git
-6. git push -u origin master
 
-    - Lista 1 
-- Lista 2
-    - Lista 3
+
+- Crear el README
+1. echo "# santi" >> README.md
+
+- Iniciar GIT
+2. git init
+
+- Añadir el README al GIT
+3. git add README.md
+
+- Guardar los cambios
+4. git commit -m "first commit"
+
+- Establecer el link del repositorio
+5. git remote add origin https://github.com/Diselec/santi.git
+
+- Subir los cambios realizados
+6. git push -u origin master
     
