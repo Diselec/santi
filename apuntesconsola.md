@@ -18,6 +18,9 @@
 - Establecer el link del repositorio
 5. git remote add origin https://github.com/Diselec/santi.git
 
+- Añadir los archivos al GIT
+6. git add ejemplo.md
+
 - Subir los cambios realizados
 6. git push -u origin master
     
